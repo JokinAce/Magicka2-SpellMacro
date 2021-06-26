@@ -1,5 +1,5 @@
 # [WIP] Magicka2 SpellMacro
-Macro Program for Magicka 2 to cast Magicks quickly
+Magicka 2 Program to cast Magicks quickly
 
 ## Features
 Num 5 - Highlander Breeze  
