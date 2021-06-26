@@ -8,4 +8,4 @@ Num 7 - Spike Quake
 Num 8 - Summon Living Dead People  
 
 ## Credits
-[WindowsInput](https://github.com/MediatedCommunications/WindowsInput/)
+[WindowsInput](https://github.com/MediatedCommunications/WindowsInput/) using [MIT-License](https://github.com/MediatedCommunications/WindowsInput/blob/master/LICENSE.txt)
