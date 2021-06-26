@@ -1,4 +1,4 @@
-# Magicka2SpellMacro
+# [WIP] Magicka2 SpellMacro
 Macro Program for Magicka 2 to cast Magicks quickly
 
 ## Features
