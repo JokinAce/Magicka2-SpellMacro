@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <AssemblyName>Magicka2SpellMacro</AssemblyName>
+    <RootNamespace>Magicka2SpellMacro</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WindowsInput" Version="6.3.0" />
+  </ItemGroup>
+
+</Project>
